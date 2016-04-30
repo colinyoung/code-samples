@@ -16,9 +16,9 @@ These files will probably make more sense after you play* Dosimetron itself:
 
 ([App Store](https://itunes.apple.com/us/app/dosimetron/id1059172279?mt=8), [Play Store](https://play.google.com/store/apps/details?id=com.landauer.dosimetron))
 
-- [proton.js](machine.js)
-- [rect.js](machine.js)
+- [proton.js](proton.js)
+- [rect.js](rect.js)
 - [machine.js](machine.js)
-- [name_entry.js](machine.js)
+- [name_entry.js](name_entry.js)
 
-* CAVEAT: The leaderboard in this mobile game depends on a server that I am not responsible for and may or may not still be live.
+\* CAVEAT: The leaderboard in this mobile game depends on a server that I am not responsible for and may or may not still be live.
